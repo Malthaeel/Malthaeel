@@ -1,274 +1,103 @@
-<h1 align="center">👋 Hi, I'm Malthaeel</h1>
+<h1 align="center">Malthaeel</h1>
 
+<p align="center">
+  <strong>Security tooling Â· Systems programming Â· Bots Â· Game scripting Â· Data analysis</strong>
+</p>
 
+<p align="center">
+  Building practical tools and exploring how software works beneath the surface.
+</p>
 
-<h3 align="center">Security Tools • Backend Development • Game Development</h3>
+<p align="center">
+  <a href="#focus-areas">Focus areas</a> &nbsp;Â·&nbsp;
+  <a href="#featured-projects">Featured projects</a> &nbsp;Â·&nbsp;
+  <a href="#toolbox">Toolbox</a>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-AFA1CF?style=flat-square&amp;labelColor=24232B" alt="Security">
+  <img src="https://img.shields.io/badge/Kernel_%26_Drivers-9EAACB?style=flat-square&amp;labelColor=24232B" alt="Kernel and drivers">
+  <img src="https://img.shields.io/badge/Discord_Bots-A6ACD8?style=flat-square&amp;labelColor=24232B" alt="Discord bots">
+  <img src="https://img.shields.io/badge/Roblox_Scripting-A4C4B5?style=flat-square&amp;labelColor=24232B" alt="Roblox scripting">
+  <img src="https://img.shields.io/badge/Data_Analysis-CDB99E?style=flat-square&amp;labelColor=24232B" alt="Data analysis">
+</p>
 
+---
 
-<p align="center">Building practical tools, experimenting with systems,<br>and turning ideas into working software.</p>
+## About me
 
+I'm Malthaeel, a developer interested in **security systems, Windows internals, automation, game development, and data analysis**.
 
+My public work includes **LuckyGuard**, a Windows security toolkit, and **Library API**, a small REST API built with Node.js and Express. I'm also developing my skills in kernel and driver development, Discord bots, Roblox scripting, and working with data.
 
-<p align="center"><a href="https://github.com/Malthaeel"><img src="https://img.shields.io/badge/GitHub-Malthaeel-181717?style=for-the-badge\&amp;logo=github\&amp;logoColor=white" alt="GitHub"></a></p>
+I care about understandable code, useful tools, and knowing why a system behaves the way it does.
 
+## Focus areas
 
+| Area | What I'm working toward |
+| :--- | :--- |
+| **Security systems** | Detection tooling, evidence-based analysis, and controlled recovery workflows. |
+| **Kernel & driver development** | A deeper understanding of Windows internals, driver architecture, and debugging. |
+| **Discord bot development** | Moderation, server protection, and configurable automation. |
+| **Roblox scripting** | Gameplay systems, server-side logic, and performance optimization with Luau. |
+| **Data analysis** | Using Python to explore data, visualize patterns, and answer practical questions. |
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Malthaeel\&amp;label=Profile%20Views\&amp;color=6e40c9\&amp;style=for-the-badge" alt="Profile Views"></p>
+## Featured projects
 
+### ðŸ›¡ï¸ [LuckyGuard](https://github.com/Malthaeel/LuckyGuard)
 
+**Windows security tooling Â· C# / .NET Â· PowerShell**
 
-<p align="center"><a href="https://github.com/Malthaeel"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&amp;weight=600\&amp;size=22\&amp;pause=1000\&amp;color=8B5CF6\&amp;center=true\&amp;vCenter=true\&amp;width=650\&amp;lines=Security+Tool+Developer;Backend+Developer;Roblox+%2F+Luau+Developer;Building+LuckyGuard" alt="Typing SVG"></a></p>
+A terminal-first security toolkit focused on detecting, containing, and recovering from LuckyWare-related compromise.
 
+- Inspects developer projects, PE files, supported archives, processes, and persistence.
+- Uses signed IOC feeds to support detection and network correlation.
+- Provides confirmation-gated remediation, quarantine, and rollback workflows.
+- Includes Microsoft Defender integration and alert-only realtime monitoring.
 
+> **Release status:** Source release candidate. A stable signed binary release has not been published yet. See the repository for current status and verification requirements.
 
-\---
+[Explore the source](https://github.com/Malthaeel/LuckyGuard) &nbsp;Â·&nbsp; [Read the architecture](https://github.com/Malthaeel/LuckyGuard/blob/main/docs/ARCHITECTURE.md)
 
+### ðŸ“š [Library API](https://github.com/Malthaeel/library-api)
 
+**Backend fundamentals Â· JavaScript Â· Node.js / Express**
 
-\## 🧑‍💻 About Me
+A compact REST API for managing a book collection, built around straightforward routing and JSON responses.
 
+- Supports creating, listing, retrieving, updating, and deleting books.
+- Stores data in memory as a learning project; changes reset when the server restarts.
 
+[Explore the source](https://github.com/Malthaeel/library-api) &nbsp;Â·&nbsp; [View the implementation](https://github.com/Malthaeel/library-api/blob/main/kitaplik-api/server.js)
 
-I'm a developer interested in \*\*security tooling, backend systems, automation, and game development\*\*.
+## Toolbox
 
+<p>
+  <img src="https://img.shields.io/badge/C%23-292733?style=for-the-badge&amp;logo=dotnet&amp;logoColor=C4B5FD" alt="C#">
+  <img src="https://img.shields.io/badge/JavaScript-292733?style=for-the-badge&amp;logo=javascript&amp;logoColor=E5D5A1" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-292733?style=for-the-badge&amp;logo=python&amp;logoColor=A8C3DA" alt="Python">
+  <img src="https://img.shields.io/badge/Luau-292733?style=for-the-badge&amp;logo=lua&amp;logoColor=B8C3E6" alt="Luau">
+</p>
 
+<p>
+  <img src="https://img.shields.io/badge/.NET-292733?style=for-the-badge&amp;logo=dotnet&amp;logoColor=C4B5FD" alt=".NET">
+  <img src="https://img.shields.io/badge/Node.js-292733?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=A4C4B5" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-292733?style=for-the-badge&amp;logo=express&amp;logoColor=D5D2DF" alt="Express">
+  <img src="https://img.shields.io/badge/Roblox_Studio-292733?style=for-the-badge&amp;logo=robloxstudio&amp;logoColor=A8C3DA" alt="Roblox Studio">
+  <img src="https://img.shields.io/badge/PowerShell-292733?style=for-the-badge&amp;logoColor=A8C3DA" alt="PowerShell">
+  <img src="https://img.shields.io/badge/Git-292733?style=for-the-badge&amp;logo=git&amp;logoColor=D8ADA6" alt="Git">
+</p>
 
-I enjoy building projects that are actually usable rather than just experimental prototypes.
+## How I approach development
 
+- **Understand the system.** Trace behavior, inspect the evidence, and make assumptions explicit.
+- **Keep changes controlled.** Prefer clear boundaries, deliberate actions, and recoverable operations.
+- **Test what matters.** Check behavior and regressions as a project grows.
+- **Measure before optimizing.** Use profiling and data to guide improvements.
 
+---
 
-Currently, most of my focus is on:
-
-
-
-\- 🛡️ Windows security tooling
-
-\- 🦠 Malware detection and remediation
-
-\- ⚙️ Backend APIs
-
-\- 🤖 Automation systems
-
-\- 🎮 Roblox / Luau development
-
-\- 🧰 Developer tooling
-
-
-
-\---
-
-
-
-\## 🚀 Featured Projects
-
-
-
-\### 🛡️ LuckyGuard
-
-
-
-> Open-source Windows security scanner and cleaner focused on LuckyWare detection and remediation.
-
-
-
-\*\*LuckyGuard includes:\*\*
-
-
-
-\- LuckyWare-focused detection
-
-\- Process and persistence analysis
-
-\- Network / C2 detection
-
-\- Signed IOC feeds
-
-\- PE and archive scanning
-
-\- Quarantine and rollback
-
-\- Microsoft Defender integration
-
-\- Realtime monitoring
-
-\- Windows Service support
-
-\- Safe remediation workflow
-
-\- Release integrity verification
-
-
-
-<a href="https://github.com/Malthaeel/LuckyGuard"><img src="https://img.shields.io/badge/View-LuckyGuard-2ea44f?style=for-the-badge\&amp;logo=github\&amp;logoColor=white" alt="LuckyGuard"></a>
-
-
-
-\---
-
-
-
-\### 📚 Library API
-
-
-
-> A RESTful backend API for library management built with Node.js and Express.
-
-
-
-\*\*Built around:\*\*
-
-
-
-\- REST architecture
-
-\- CRUD operations
-
-\- Node.js
-
-\- Express
-
-\- API routing
-
-\- Backend structure
-
-
-
-<a href="https://github.com/Malthaeel/library-api"><img src="https://img.shields.io/badge/View-library--api-2ea44f?style=for-the-badge\&amp;logo=github\&amp;logoColor=white" alt="Library API"></a>
-
-
-
-\---
-
-
-
-\## 🧰 Tech Stack
-
-
-
-<h3 align="center">Languages</h3>
-
-
-
-<p align="center"><img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&amp;logo=dotnet\&amp;logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&amp;logo=javascript\&amp;logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&amp;logo=python\&amp;logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge\&amp;logo=lua\&amp;logoColor=white" alt="Luau"></p>
-
-
-
-<h3 align="center">Frameworks \& Platforms</h3>
-
-
-
-<p align="center"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&amp;logo=dotnet\&amp;logoColor=white" alt=".NET"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&amp;logo=nodedotjs\&amp;logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge\&amp;logo=express\&amp;logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge\&amp;logo=roblox\&amp;logoColor=white" alt="Roblox"></p>
-
-
-
-<h3 align="center">Tools</h3>
-
-
-
-<p align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge\&amp;logo=git\&amp;logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&amp;logo=github\&amp;logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&amp;logo=powershell\&amp;logoColor=white" alt="PowerShell"> <img src="https://img.shields.io/badge/Visual\_Studio-5C2D91?style=for-the-badge\&amp;logo=visualstudio\&amp;logoColor=white" alt="Visual Studio"></p>
-
-
-
-\---
-
-
-
-\## 🎯 Current Focus
-
-
-
-```text
-
-LuckyGuard
-
-├── Windows security
-
-├── Malware detection
-
-├── Realtime monitoring
-
-├── Signed IOC infrastructure
-
-└── Public release tooling
-
-
-
-Game Development
-
-├── Roblox
-
-├── Luau
-
-├── Gameplay systems
-
-└── Optimization
-
-
-
-Backend
-
-├── REST APIs
-
-├── Node.js
-
-└── Automation
-
-````
-
-
-
-\---
-
-
-
-\## 📊 GitHub Stats
-
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Malthaeel\&amp;show\_icons=true\&amp;hide\_border=true\&amp;theme=transparent" alt="Malthaeel GitHub Stats"></p>
-
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malthaeel\&amp;layout=compact\&amp;hide\_border=true\&amp;theme=transparent" alt="Top Languages"></p>
-
-
-
-\---
-
-
-
-\## 🔥 Contribution Streak
-
-
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=Malthaeel\&amp;theme=transparent\&amp;hide\_border=true" alt="GitHub Streak"></p>
-
-
-
-\---
-
-
-
-\## 🛡️ Development Philosophy
-
-
-
-> \*\*Build things that are useful, understandable, and difficult to misuse.\*\*
-
-
-
-I prefer projects with clear architecture, practical goals, and security-conscious design.
-
-
-
-\---
-
-
-
-<p align="center"><b>Thanks for visiting 👋</b></p>
-
-
-
-<p align="center">If one of my projects helped you, consider leaving a ⭐</p>
-
+<p align="center">
+  <strong>Understand the system. Build with intent.</strong><br>
+  <sub>Security Â· Systems Â· Automation Â· Games Â· Data</sub>
+</p>
