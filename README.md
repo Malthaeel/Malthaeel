@@ -1,7 +1,8 @@
 <!-- Upload this README.md together with assets/profile-banner.svg. -->
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Malthaeel | Security systems, kernel development, Discord bots, Roblox scripting and data analysis">
+  <<img width="1200" height="320" alt="profile-banner" src="https://github.com/user-attachments/assets/233bd9b8-ea67-4149-8041-f75df80675bf" alt="Malthaeel | Security systems, kernel development, Discord bots, Roblox scripting and data analysis">
 </p>
+
 
 <p align="center">
   <a href="#about">About</a> &nbsp; / &nbsp;
