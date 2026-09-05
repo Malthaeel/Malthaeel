@@ -2,53 +2,23 @@
 
 
 
-<h3 align="center">
-
-&#x20; Security Tools • Backend Development • Game Development
-
-</h3>
+<h3 align="center">Security Tools • Backend Development • Game Development</h3>
 
 
 
-<p align="center">
-
-&#x20; Building practical tools, experimenting with systems,<br>
-
-&#x20; and turning ideas into working software.
-
-</p>
+<p align="center">Building practical tools, experimenting with systems,<br>and turning ideas into working software.</p>
 
 
 
-<p align="center">
-
-&#x20; <a href="https://github.com/Malthaeel">
-
-&#x20;   <img src="https://img.shields.io/badge/GitHub-Malthaeel-181717?style=for-the-badge\&logo=github\&logoColor=white" alt="GitHub">
-
-&#x20; </a>
-
-&#x20; <img src="https://komarev.com/ghpvc/?username=Malthaeel\&style=for-the-badge\&color=6e40c9" alt="Profile Views">
-
-</p>
+<p align="center"><a href="https://github.com/Malthaeel"><img src="https://img.shields.io/badge/GitHub-Malthaeel-181717?style=for-the-badge\&amp;logo=github\&amp;logoColor=white" alt="GitHub"></a></p>
 
 
 
-<p align="center">
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Malthaeel\&amp;label=Profile%20Views\&amp;color=6e40c9\&amp;style=for-the-badge" alt="Profile Views"></p>
 
-&#x20; <a href="https://github.com/Malthaeel">
 
-&#x20;   <img
 
-&#x20;     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&pause=1000\&color=8B5CF6\&center=true\&vCenter=true\&width=600\&lines=Security+Tool+Developer;Backend+Developer;Roblox+%2F+Luau+Developer;Building+LuckyGuard"
-
-&#x20;     alt="Typing SVG"
-
-&#x20;   >
-
-&#x20; </a>
-
-</p>
+<p align="center"><a href="https://github.com/Malthaeel"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&amp;weight=600\&amp;size=22\&amp;pause=1000\&amp;color=8B5CF6\&amp;center=true\&amp;vCenter=true\&amp;width=650\&amp;lines=Security+Tool+Developer;Backend+Developer;Roblox+%2F+Luau+Developer;Building+LuckyGuard" alt="Typing SVG"></a></p>
 
 
 
@@ -130,11 +100,7 @@ Currently, most of my focus is on:
 
 
 
-<a href="https://github.com/Malthaeel/LuckyGuard">
-
-&#x20; <img src="https://img.shields.io/badge/View-LuckyGuard-2ea44f?style=for-the-badge\&logo=github\&logoColor=white" alt="LuckyGuard Repository">
-
-</a>
+<a href="https://github.com/Malthaeel/LuckyGuard"><img src="https://img.shields.io/badge/View-LuckyGuard-2ea44f?style=for-the-badge\&amp;logo=github\&amp;logoColor=white" alt="LuckyGuard"></a>
 
 
 
@@ -168,11 +134,7 @@ Currently, most of my focus is on:
 
 
 
-<a href="https://github.com/Malthaeel/library-api">
-
-&#x20; <img src="https://img.shields.io/badge/View-library--api-2ea44f?style=for-the-badge\&logo=github\&logoColor=white" alt="Library API Repository">
-
-</a>
+<a href="https://github.com/Malthaeel/library-api"><img src="https://img.shields.io/badge/View-library--api-2ea44f?style=for-the-badge\&amp;logo=github\&amp;logoColor=white" alt="Library API"></a>
 
 
 
@@ -188,17 +150,7 @@ Currently, most of my focus is on:
 
 
 
-<p align="center">
-
-&#x20; <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white" alt="C#">
-
-&#x20; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black" alt="JavaScript">
-
-&#x20; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white" alt="Python">
-
-&#x20; <img src="https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white" alt="Luau">
-
-</p>
+<p align="center"><img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&amp;logo=dotnet\&amp;logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&amp;logo=javascript\&amp;logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&amp;logo=python\&amp;logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge\&amp;logo=lua\&amp;logoColor=white" alt="Luau"></p>
 
 
 
@@ -206,17 +158,7 @@ Currently, most of my focus is on:
 
 
 
-<p align="center">
-
-&#x20; <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white" alt=".NET">
-
-&#x20; <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white" alt="Node.js">
-
-&#x20; <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white" alt="Express">
-
-&#x20; <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge\&logo=roblox\&logoColor=white" alt="Roblox">
-
-</p>
+<p align="center"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&amp;logo=dotnet\&amp;logoColor=white" alt=".NET"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&amp;logo=nodedotjs\&amp;logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge\&amp;logo=express\&amp;logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge\&amp;logo=roblox\&amp;logoColor=white" alt="Roblox"></p>
 
 
 
@@ -224,17 +166,7 @@ Currently, most of my focus is on:
 
 
 
-<p align="center">
-
-&#x20; <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white" alt="Git">
-
-&#x20; <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white" alt="GitHub">
-
-&#x20; <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white" alt="PowerShell">
-
-&#x20; <img src="https://img.shields.io/badge/Visual\_Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white" alt="Visual Studio">
-
-</p>
+<p align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge\&amp;logo=git\&amp;logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&amp;logo=github\&amp;logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&amp;logo=powershell\&amp;logoColor=white" alt="PowerShell"> <img src="https://img.shields.io/badge/Visual\_Studio-5C2D91?style=for-the-badge\&amp;logo=visualstudio\&amp;logoColor=white" alt="Visual Studio"></p>
 
 
 
@@ -294,29 +226,11 @@ Backend
 
 
 
-<p align="center">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Malthaeel\&amp;show\_icons=true\&amp;hide\_border=true\&amp;theme=transparent" alt="Malthaeel GitHub Stats"></p>
 
-&#x20; <img
 
-&#x20;   src="https://github-readme-stats.vercel.app/api?username=Malthaeel\&show\_icons=true\&hide\_border=true\&theme=transparent"
 
-&#x20;   height="165"
-
-&#x20;   alt="Malthaeel GitHub Stats"
-
-&#x20; >
-
-&#x20; <img
-
-&#x20;   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malthaeel\&layout=compact\&hide\_border=true\&theme=transparent"
-
-&#x20;   height="165"
-
-&#x20;   alt="Top Languages"
-
-&#x20; >
-
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malthaeel\&amp;layout=compact\&amp;hide\_border=true\&amp;theme=transparent" alt="Top Languages"></p>
 
 
 
@@ -328,17 +242,7 @@ Backend
 
 
 
-<p align="center">
-
-&#x20; <img
-
-&#x20;   src="https://github-readme-streak-stats.herokuapp.com/?user=Malthaeel\&theme=transparent\&hide\_border=true"
-
-&#x20;   alt="GitHub Streak"
-
-&#x20; >
-
-</p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=Malthaeel\&amp;theme=transparent\&amp;hide\_border=true" alt="GitHub Streak"></p>
 
 
 
@@ -362,17 +266,9 @@ I prefer projects with clear architecture, practical goals, and security-conscio
 
 
 
-<p align="center">
-
-&#x20; <b>Thanks for visiting.</b>
-
-</p>
+<p align="center"><b>Thanks for visiting 👋</b></p>
 
 
 
-<p align="center">
-
-&#x20; If one of my projects helped you, consider leaving a ⭐
-
-</p>
+<p align="center">If one of my projects helped you, consider leaving a ⭐</p>
 
